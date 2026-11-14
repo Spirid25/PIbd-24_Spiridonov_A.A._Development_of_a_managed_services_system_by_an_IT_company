@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\TaskTrecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\enums\\contractstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\enums\\contractstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\enums\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\enums\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\repositories\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\repositories\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|c:\\users\\user\\desktop\\tasktrecker\\tasktrecker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContractRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Repositories\\IContractRepository.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Repositories\\IContractRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Repositories\\IContractRepository.cs",
+              "RelativeToolTip": "TaskTrecker\\Repositories\\IContractRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:21:37.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Repositories\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Repositories\\IServiceRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Repositories\\IServiceRepository.cs",
+              "RelativeToolTip": "TaskTrecker\\Repositories\\IServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:18:32.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "TaskTrecker\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:14:53.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "TaskTrecker\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:10:27.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Entities\\Contract.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Entities\\Contract.cs",
+              "RelativeToolTip": "TaskTrecker\\Entities\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:51:27.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Entities\\Employee.cs",
+              "RelativeToolTip": "TaskTrecker\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:48:19.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Entities\\Client.cs",
+              "RelativeToolTip": "TaskTrecker\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:44:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Form1.Designer.cs",
+              "RelativeToolTip": "TaskTrecker\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:38:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractStatus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Enums\\ContractStatus.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Enums\\ContractStatus.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Enums\\ContractStatus.cs",
+              "RelativeToolTip": "TaskTrecker\\Enums\\ContractStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:38:04.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceType.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Enums\\ServiceType.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Enums\\ServiceType.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Enums\\ServiceType.cs",
+              "RelativeToolTip": "TaskTrecker\\Enums\\ServiceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:38:02.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Form1.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TaskTrecker\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:35:26.408Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Program.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TaskTrecker\\TaskTrecker\\Program.cs",
+              "RelativeToolTip": "TaskTrecker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:35:18.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

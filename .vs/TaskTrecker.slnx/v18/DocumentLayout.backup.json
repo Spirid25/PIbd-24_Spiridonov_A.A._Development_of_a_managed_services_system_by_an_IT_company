@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\OTP\\TaskTrecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|d:\\code\\otp\\tasktrecker\\tasktrecker\\forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|D:\\code\\OTP\\TaskTrecker\\tasktrecker\\forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\employeesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|D:\\code\\OTP\\TaskTrecker\\tasktrecker\\forms\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\serviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|d:\\code\\otp\\tasktrecker\\tasktrecker\\forms\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|D:\\code\\OTP\\TaskTrecker\\tasktrecker\\forms\\serviceeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\serviceeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|D:\\code\\OTP\\TaskTrecker\\tasktrecker\\forms\\contractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\contractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|D:\\code\\OTP\\TaskTrecker\\tasktrecker\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|d:\\code\\otp\\tasktrecker\\tasktrecker\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|d:\\code\\otp\\tasktrecker\\tasktrecker\\forms\\contracteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\contracteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|d:\\code\\otp\\tasktrecker\\tasktrecker\\forms\\contracteditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\contracteditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|D:\\code\\OTP\\TaskTrecker\\tasktrecker\\forms\\contracteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\contracteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|d:\\code\\otp\\tasktrecker\\tasktrecker\\forms\\contractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\contractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|d:\\code\\otp\\tasktrecker\\tasktrecker\\forms\\clienteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\clienteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|D:\\code\\OTP\\TaskTrecker\\tasktrecker\\forms\\clienteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\clienteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|D:\\code\\OTP\\TaskTrecker\\tasktrecker\\forms\\employeeeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\forms\\employeeeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|d:\\code\\otp\\tasktrecker\\tasktrecker\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAE6B53-5681-E712-5B7B-2663D4FA4618}|TaskTrecker\\TaskTrecker.csproj|solutionrelative:tasktrecker\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesForm.cs",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\EmployeesForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\EmployeesForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\EmployeesForm.cs",
+              "RelativeToolTip": "TaskTrecker\\Forms\\EmployeesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T08:23:11.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\ClientsForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TaskTrecker\\Forms\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:57:01.662Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\EmployeesForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\EmployeesForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\EmployeesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TaskTrecker\\Forms\\EmployeesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:56:41.537Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ServiceForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\ServiceForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ServiceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TaskTrecker\\Forms\\ServiceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:55:58.458Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceEditForm.cs [Design]",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ServiceEditForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\ServiceEditForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ServiceEditForm.cs [Design]",
+              "RelativeToolTip": "TaskTrecker\\Forms\\ServiceEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:55:52.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContractForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ContractForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\ContractForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ContractForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TaskTrecker\\Forms\\ContractForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:48:41.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TaskTrecker\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:52:49.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\MainForm.cs",
+              "RelativeToolTip": "TaskTrecker\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:53:05.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContractForm.cs",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ContractForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\ContractForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ContractForm.cs",
+              "RelativeToolTip": "TaskTrecker\\Forms\\ContractForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:48:26.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContractEditForm.Designer.cs",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ContractEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\ContractEditForm.Designer.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ContractEditForm.Designer.cs",
+              "RelativeToolTip": "TaskTrecker\\Forms\\ContractEditForm.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:46:06.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContractEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ContractEditForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\ContractEditForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ContractEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TaskTrecker\\Forms\\ContractEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:40:27.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContractEditForm.cs",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ContractEditForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\ContractEditForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ContractEditForm.cs",
+              "RelativeToolTip": "TaskTrecker\\Forms\\ContractEditForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:40:11.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientEditForm.cs",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ClientEditForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\ClientEditForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ClientEditForm.cs",
+              "RelativeToolTip": "TaskTrecker\\Forms\\ClientEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:38:19.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ClientEditForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\ClientEditForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\ClientEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TaskTrecker\\Forms\\ClientEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:38:08.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\EmployeeEditForm.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Forms\\EmployeeEditForm.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Forms\\EmployeeEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TaskTrecker\\Forms\\EmployeeEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:33:24.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "TaskTrecker\\Entities\\Contract.cs",
+              "ToolTip": "D:\\code\\OTP\\TaskTrecker\\TaskTrecker\\Entities\\Contract.cs",
+              "RelativeToolTip": "TaskTrecker\\Entities\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T20:01:48.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
